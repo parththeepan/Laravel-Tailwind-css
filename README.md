@@ -8,3 +8,9 @@
 
 ![alt text](https://github.com/parththeepan/Laravel-Tailwind-css/blob/master/document_images/homepage.png?raw=true)
 
+
+![alt text](https://github.com/parththeepan/Laravel-Tailwind-css/blob/master/document_images/Add%20page.png
+?raw=true)
+
+
+
