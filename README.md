@@ -43,7 +43,7 @@
 * **Lastname:** It should be at least 3 letters. It should be letters(numbers/symbol not allowed).
 * **Dateofbirth:** It should be a date before today.
 * **Email:** It should be email format.
-* **ContactNumber:**It must be numbers.It should be start from 07 and it contains total 10 numbers.
+* **ContactNumber:** It must be numbers.It should be start from 07 and it contains total 10 numbers.
 * If filled password and confirmpassword, It should be at least 8 letters. password and confirmpassword should match.
 
 ## 
