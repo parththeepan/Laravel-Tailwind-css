@@ -6,7 +6,7 @@
 
 
 ## Home page
-![alt text](https://github.com/parththeepan/Laravel-Tailwind-css/blob/master/document_images/home.png?raw=true)
+![alt text](https://github.com/parththeepan/Laravel-Tailwind-css/blob/master/document_images/homepage.png?raw=true)
 
 ###### Front end view
 * **Search button**
