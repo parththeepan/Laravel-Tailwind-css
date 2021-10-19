@@ -1,4 +1,7 @@
-# Laravel Configuration
+# Laravel Tailwind css
+* **Laravel, tailwind css, mysql**
+
+## Laravel Configuration
 * **clone the file**
 * **create .env file and copy from .env.example**
 * **npm install**
